@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "mitu",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hominhtuong/MiTu.git",
+      "state" : {
+        "revision" : "357f9cdc424b09add448920faffd933f620e4da5",
+        "version" : "1.0.6"
+      }
+    }
+  ],
+  "version" : 2
+}
