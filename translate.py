@@ -10,7 +10,7 @@ from shutil import rmtree
 # _____ (5 underscores)	Down the line (\n)
 
 #Let change it
-INPUT_FILE_NAME = "example"
+INPUT_FILE_NAME = "XcodeLocalization/res/dkm"
 
 FILE_TYPE = "tsv"
 line_header = None
@@ -40,7 +40,7 @@ for lang in line_header:
 print(language_type_array)
 
 #Let change it
-directoryParent = 'Example/Example/Localization/'
+directoryParent = 'XcodeLocalization/results/'
 
 if os.path.exists(directoryParent):
     rmtree(directoryParent)
